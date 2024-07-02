@@ -28,4 +28,14 @@ JAVA의 쓰레드 기능을 재미있는 게임을 통해 사용해보고자 기
 #### 3. 마카롱마다 점수가 다릅니다.
 #### 4. 랭킹 등록으로 다양한 사람들과 순위를 정할 수 있습니다.
 
+### - Game Intro
+<img src="./assets/Intro.png" width="500px">
+
+### - Game Help
+<img src="./assets/Help.png" width="500px">
+
+### - Game
 <img src="./assets/MacaronGame.gif" width="500px">
+
+### - Game Rank
+<img src="./assets/Rank.png" width="500px">
